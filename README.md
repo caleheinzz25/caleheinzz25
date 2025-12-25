@@ -17,9 +17,17 @@ const developer = {
   name: 'Muhammad Hisyam',
   role: 'Software Engineer',
   location: 'Indonesia 🇮🇩',
-  loves: ['Clean Code', 'Web Development', 'Learning New Tech'],
+  loves: [
+    'Clean Code',
+    'Web Development',
+    'Mobile Development',
+    'Building CI/CD Pipelines',
+    'Data Engineering Practices',
+    'Learning New Tech'
+  ],
   currentFocus: 'Building accessible, inclusive products'
 };
+
 ```
 
 - 🔭 I'm passionate about creating things that live on the internet
@@ -73,6 +81,9 @@ const developer = {
 ![Bun](https://img.shields.io/badge/-Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
+### 📋 Collaboration & Analytics
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white )
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white )
 ---
 
 ## 📊 GitHub Stats
