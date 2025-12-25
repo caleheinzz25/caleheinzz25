@@ -32,7 +32,7 @@ const developer = {
 
 - 🔭 I'm passionate about creating things that live on the internet
 - 🌱 Started my web development journey in **2018**
-- 💼 Experienced working at **startups**, **agencies**, and **enterprises**
+- 💼 Currently exploring personal & open-source projects to sharpen my skills
 - 📫 Always open for new opportunities and collaborations
 
 ---
