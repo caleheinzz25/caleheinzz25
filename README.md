@@ -1,30 +1,69 @@
 # 👋 Hi, I'm Muhammad Hisyam
 
-**Software Engineer · Indonesia 🇮🇩**
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Building+things+for+the+web)](https://git.io/typing-svg)
 
-I build for the web — performant, accessible, and thoughtfully designed applications that solve real problems.  
-Currently focused on crafting seamless user experiences and robust backend systems.
+  <p><em>💻 I build things for the web — accessible, human-centered products that make a difference.</em></p>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 I’ve been developing for the web since **2018**, moving from curiosity to production-grade systems.
-- ⚙️ I enjoy working across the stack — from structuring clean React interfaces to designing reliable APIs and CI/CD pipelines.
-- 🧠 I also bring data engineering practices into my work when it makes things more scalable and maintainable.
-- 🌱 Right now I’m diving deeper into **WebAssembly**, **AI/ML** integration, and **Kubernetes**.
-- 📫 I’m open to collaborations, freelance projects, and full-time roles.  
-  → See my work at **[mhisyam.com](https://mhisyam.com)**
+```javascript
+const developer = {
+  name: 'Muhammad Hisyam',
+  role: 'Software Engineer',
+  location: 'Indonesia 🇮🇩',
+  loves: [
+    'Clean Code',
+    'Web Development',
+    'Mobile Development',
+    'Building CI/CD Pipelines',
+    'Data Engineering Practices',
+    'Learning New Tech'
+  ],
+  currentFocus: 'Building accessible, inclusive products'
+};
+
+```
+
+- 🔭 I'm passionate about creating things that live on the internet
+- 🌱 Started my web development journey in **2018**
+- 💼 Currently exploring personal & open-source projects to sharpen my skills
+- 📫 Always open for new opportunities and collaborations
 
 ---
 
-## 📫 Let’s Connect
+## 🌱 Currently Exploring
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caleheinzz25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/mhisyam.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mhisyam.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hisyam@example.com)
+- 🔬 **WebAssembly** - High-performance web applications
+- 🤖 **AI/ML** - Machine learning and artificial intelligence
+- ☸️ **Kubernetes** - Container orchestration at scale
 
 ---
 
-*Whether you have a question, a project idea, or just want to say hi — I’ll get back to you.*
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caleheinzz25)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hisyam@example.com)
+[![Portfolio](https://img.shields.io/badge/-mhisyam.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mhisyam.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=caleheinzz25&color=64ffda&style=flat-square&label=Profile+Views"/>
+  
+  <br/>
+  <br/>
+  
+  *"Whether you have a question, want to collaborate on a project, or just want to say hi — my inbox is always open!"* 💬
+</div>  upgrade and do not look to ai and more profesional and add link to my portofolio mhisyam.com
